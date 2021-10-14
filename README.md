@@ -20,9 +20,9 @@ Boilerplate de uma aplicação web voltado ao gerenciamento de backoffice.
 
 [interno | [repositório](https://github.com/Novatics/backoffice-webapp)]
 
-### Courier
+### Hermes
 
-Módulo reutilizável de mensageria. O Courier funciona como middleware que facilita a integração de um frontend e/ou backend com serviços de mensageria como Twillio, Sendgrid, Amazon SES, etc.
+Módulo reutilizável de mensageria. O Hermes funciona como middleware que facilita a integração de um frontend e/ou backend com serviços de mensageria como Twillio, Sendgrid, Amazon SES, etc.
 
 [open-source | [repositório](https://github.com/Novatics/courier)]
 
